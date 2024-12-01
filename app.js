@@ -7,7 +7,7 @@ app.get("/", (req, res)=>{
   // console.log(req);
   // res.send("Hello, world!");
   res.json({
-    message: "This is a home page"
+    message: "This is a Rabin page"
   })
 })
 
